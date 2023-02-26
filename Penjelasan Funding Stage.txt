@@ -1,0 +1,66 @@
+#Istilah penting
+
+angel investor adalah individu dengan jumlah kekayaan bersih tinggi yang memberikan pendanaan kepada perusahaan rintisan, pengusaha kecil, atau startup yang menjanjikan imbalan berupa ekuitas kepemilikan atau royalti. Investor juga hanya mengakuisisi sekitar 25% saham perusahaan.
+
+Dunia bisnis mengenal pasar persaingan sempurna dan tidak sempurna. Di pasar persaingan sempurna, perusahaan bersaing satu sama lain untuk jadi penguasa.
+Semakin banyak perusahaan di dalam pasar tersebut, maka perebutan kekuasaannya akan semakin sengit. Ada satu perusahaan menguasai 40% pasar, sementara 60% sisanya terbagi ke seribu perusahaan kompetitor. Pembagian kekuasaan inilah yang dinamakan sebagai market share.
+
+Scale Up/ Scaling Bisnis adalah suatu langkah untuk mempersiapkan dan mendukung pertumbuhan bisnis agar berkembang lebih besar mulai dari sisi sistem, sumber daya, proses, teknologi, hingga mitra.
+
+Undisclosed merupakan informasi dari pendaan tersebut tidak tersedia untuk public
+
+Jenis-Jenis Pendanaan :
+
+Pre-Seed (tahap ide)
+> Tidak termasuk pada putaran pendanaan.
+> Biasanya, dana yang didapat pada tahap pre-seed funding adalah melalui bootstrapping (dana sendiri) dan/atau menerima dana untuk bisnis dari keluarga serta teman.
+> Namun, pendanaan dari angel investor terbilang langka. Nilai pendanaan pre-seed funding berkisar 200-500 ribu USD.
+
+
+Seed Funding
+sejumlah minimun uang yang dibutuhkan untuk memulai startup.
+> Tujuan seed funding adalah untuk membuktikan bahwa startup dapat mengeksekusi idenya dan membuktikan bahwa pasar akan mendukungnya.
+> Ada banyak calon investor dalam situasi pendanaan awal: pendiri, teman, keluarga, inkubator, perusahaan modal ventura, dan banyak lagi.
+> Salah satu investor potensial berasal dari investor swasta seperti angel investor. Modal ini dapat digunakan untuk membayar penelitian dan pengembangan, mempekerjakan karyawan baru, dan biaya bisnis lainnya.
+> Pada 2016, rata-rata nilai kesepakatan seed funding mencapai sekitar $500.000. Hingga tahun 2019 telah melonjak menjadi rata-rata $800.000. Demikian pula, nilai pendanaan untuk seri A dan B ikut mengalami pertumbuhan nilai seiring waktu.
+
+
+Pendanaan Seri A
+> Biasanya setelah setahun setelah seed funding dan telah memiliki basis konsumen potensial yang membeli produk.
+> bertujuan untuk menambah karyawan atau membuat ruang kantor yang mana hal ini berkaitan dengan pemaksaimalan pelayanan terhadap konsumen
+> Pada startup series A di Indonesia, besaran nilai pendanaan Seri A adalah mulai dari Rp 10 miliar atau 655086.91 USD
+> Founder startup series A selanjutnya memiliki tanggung jawab untuk memasarkan produknya dalam skala yang lebih besar. Sembari melakukan pengembangan produk lebih lanjut dan eksekusi strategi untuk menghasilkan profit jangka panjang.
+
+
+Pendanaan Seri B
+> pemberian data terjadi pada perusahaan yang telah memiliki market share dan scaling bisnis.
+> Menjangkau lebih banyak konsumen dan menghadirkan fitur layanan yang mumpuni membuat startup akan berusaha melakukan promosi dan menghadirkan tim berkualitas
+> Pada 2016 nilainya $8.000.000 dan pada 2019 $16.000.000
+
+
+Pendanaan Seri C
+> Pendanaan seri C adalah babak terakhir penggalangan dana startup. Bisnis yang memasuki tahapan pendanaan seri C dapat dikategorikan sukses.
+> Investor startup series C ingin melihat bahwa startup telah mencapai tonggak penting, seperti meningkatkan pendapatan atau mengembangkan produk baru
+> Pada tahun 2021, valuasi rata-rata untuk perusahaan Seri C adalah sekitar US$ 68 juta. Penilaian terhadap pendanaan ini didasarkan pada berbagai data saat ini sebagai ekspektasi untuk kesuksesan di masa depan.
+
+
+Pendanaan Private Equity
+> Pendanaan putaran ini didapatkan dari private equity, yaitu perusahaan investasi yang mengumpulkan dana dari perusahaan atau pihak-pihak tertentu. Pada umumnya pendanaan ini masuk ke dalam tahap funding stage lanjut dengan nilai yang sangat besar.
+
+
+Pendanaan Debt Funding
+> Pinjaman dana modal yang diberikan dalam convertible notes untuk sebuah startup yang berada di tingkat lanjut. Pada jangka waktu tertentu, dana bisa dikembalikan bersama dengan perjanjian bunga yang telah disepakati, atau bisa juga dikonversi menjadi sebuah kepemilikan saham.
+
+
+Pendanaan Growth Fund
+> Pinjaman dana modal yang diberikan dalam convertible notes untuk sebuah startup yang berada di tingkat lanjut. Pada jangka waktu tertentu, dana bisa dikembalikan bersama dengan perjanjian bunga yang telah disepakati, atau bisa juga dikonversi menjadi sebuah kepemilikan saham.
+> Investor-investor ini dapat berinvestasi dengan angka yang signifikan ke dalam sebuah startup yang sudah bekerja keras untuk mengamankan posisi mereka sebagai business leader.
+
+Initial Coin Offering (ICO)
+> sejumlah mata uang kripto yang dijual dalam bentuk token kepada investor atau spekulen
+> sepertinya tidak seperti funding lainnya yang mana investor akan mendapatkan berapa persen saham. namun, investor akan di berikan mata uang crypto sebagai bentuk kepemilikan
+
+
+Crowdfunding
+> salah satu teknik pengumpulan dana yang dilakukan oleh banyak orang dan nantinya dana tersebut akan dipakai untuk tujuan suatu kegiatan atau bisnis.
+
